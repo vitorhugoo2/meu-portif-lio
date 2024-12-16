@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'Fokus - Pomodoro Timer',
     description: 'Fokus é um aplicativo de gerenciamento de tarefas simples e eficiente',
-    image: './src/img/fokus.png',
+    image: 'https://ibb.co/BgszB2J',
     tech: ['Html', 'CSS', 'JavaScript'],
     github: 'https://github.com/vitorhugoo2/fokus',
     live: 'https://exemplo.com'
@@ -13,7 +13,7 @@ const projects = [
   {
     title: 'Decodificador de Mensagens',
     description: 'Decodificador de mensagens secretas com criptografia de consoantes',
-    image: './src/img/decodificador.png',
+    image: 'https://ibb.co/JxJwSFf',
     tech: ['Html ', 'CSS', 'JavaScript'],
     github: 'https://github.com/vitorhugoo2/decodificador-one',
     live: 'https://exemplo.com'
@@ -21,7 +21,7 @@ const projects = [
   {
     title: 'Alura Books',
     description: 'Alura Books é um aplicativo de leitura de livros online',
-    image: './src/img/alura-books.png',
+    image: 'https://ibb.co/2c3km9Y',
     tech: ['API', 'JavaScript'],
     github: 'https://github.com',
     live: 'https://exemplo.com'
